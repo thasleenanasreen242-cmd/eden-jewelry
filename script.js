@@ -1,3 +1,3 @@
 function showMessage() {
-  alert("Welcome to Eden Jewelry 💎 We will launch soon!");
+  alert("Welcome to nasreen Jewelry 💎 We will launch soon!");
 }
